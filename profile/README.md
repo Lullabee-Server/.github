@@ -27,12 +27,7 @@ Nous mettons régulièrement à jour le serveur pour vous offrir la meilleure ex
 
 ### Adresse IP du serveur : 
 
-play.lullabee.fr
-
-
-- **Version Minecraft** : [Version compatible]
-- **Serveur Premium** : Non, les joueurs "crackés" sont les bienvenus !
-- **Mods Requis** : Aucun, mais nous recommandons l’utilisation d’Optifine pour une meilleure expérience.
+play.lullabee.fr - [1.20.6 - 1.21]
 
 ## 👥 Rejoignez la communauté !
 
