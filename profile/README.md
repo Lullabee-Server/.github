@@ -10,7 +10,7 @@ Bienvenue sur **Lullabee**, un serveur Minecraft francophone proposant de multip
 
 Rejoignez-nous pour une expérience inoubliable sur **Lullabee** !
 
-## 📢 État du serveurhttps://github.com/Lullabee-Server/.github/blob/main/profile/README.md
+## 📢 État du serveur
 
 Le serveur est actuellement : 
 
