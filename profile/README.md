@@ -21,6 +21,8 @@ Le serveur est actuellement :
 <!-- Si le serveur est en ligne, remplacer par : -->
 FFARush - **<span style="color:green">En ligne</span>** ✅
 
+SkyBlock - **<span style="color:green">En ligne</span>** ✅
+
 Survie - **<span style="color:red">Hors ligne</span>** ❌
 
 Nous mettons régulièrement à jour le serveur pour vous offrir la meilleure expérience de jeu possible. Si le serveur est hors ligne, merci de vérifier à nouveau plus tard ou de suivre nos réseaux sociaux pour plus d'informations.
